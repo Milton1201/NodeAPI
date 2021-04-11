@@ -1,4 +1,4 @@
-## Source code for the Udemy Course
+## Source code for the Serve Backend Nodejs API
 
 ### [React Node Social Network from Scratch to Deployment ](https://www.udemy.com/node-react/?couponCode=GITHUB)
 
